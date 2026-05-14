@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_headers">
+    <sys_rest_message_fn_headers action="INSERT_OR_UPDATE">
+        <name>Content-Type</name>
+        <rest_message_function display_value="Todo Lists API">f36e886683f807101902ba96feaad353</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-14 16:23:47</sys_created_on>
+        <sys_id>36fa1c6e833c07101902ba96feaad3ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content-Type</sys_name>
+        <sys_package display_value="Todo Integration" source="x_1534869_todo_i_0">5a398882837c03101902ba96feaad31b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todo Integration">5a398882837c03101902ba96feaad31b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_headers_36fa1c6e833c07101902ba96feaad3ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-14 16:23:47</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_fn_headers>
+</record_update>
