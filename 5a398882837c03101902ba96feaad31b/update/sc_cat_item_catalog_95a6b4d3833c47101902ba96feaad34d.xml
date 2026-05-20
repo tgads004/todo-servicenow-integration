@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Add Todo Item">02c5f853833c47101902ba96feaad3ac</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-17 02:18:24</sys_created_on>
+        <sys_id>95a6b4d3833c47101902ba96feaad34d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Add Todo Item</sys_name>
+        <sys_package display_value="Todo Integration" source="x_1534869_todo_i_0">5a398882837c03101902ba96feaad31b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todo Integration">5a398882837c03101902ba96feaad31b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_95a6b4d3833c47101902ba96feaad34d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-17 02:18:24</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

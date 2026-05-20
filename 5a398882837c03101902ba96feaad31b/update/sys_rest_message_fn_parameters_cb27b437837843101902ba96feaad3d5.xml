@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>item_state</name>
+        <rest_message_function display_value="Add ToDo Item">2afe6437833843101902ba96feaad369</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 15:37:39</sys_created_on>
+        <sys_id>cb27b437837843101902ba96feaad3d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item_state</sys_name>
+        <sys_package display_value="Todo Integration" source="x_1534869_todo_i_0">5a398882837c03101902ba96feaad31b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todo Integration">5a398882837c03101902ba96feaad31b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_cb27b437837843101902ba96feaad3d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 15:37:39</sys_updated_on>
+        <type>string</type>
+        <value/>
+    </sys_rest_message_fn_parameters>
+</record_update>

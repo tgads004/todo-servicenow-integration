@@ -9,19 +9,19 @@
         <name>Todo Lists API</name>
         <oauth2_profile/>
         <protocol_name/>
-        <rest_endpoint>https://ca-api-d2of5atieh6jk.salmonhill-84bd9948.eastus2.azurecontainerapps.io/lists</rest_endpoint>
+        <rest_endpoint>https://ca-api-d2of5atieh6jk.salmonhill-84bd9948.eastus2.azurecontainerapps.io</rest_endpoint>
         <sys_class_name>sys_rest_message</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-05-14 15:27:16</sys_created_on>
         <sys_id>63c80caa83b807101902ba96feaad3d6</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Todo Lists API</sys_name>
         <sys_package display_value="Todo Integration" source="x_1534869_todo_i_0">5a398882837c03101902ba96feaad31b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Todo Integration">5a398882837c03101902ba96feaad31b</sys_scope>
         <sys_update_name>sys_rest_message_63c80caa83b807101902ba96feaad3d6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-05-14 18:45:17</sys_updated_on>
+        <sys_updated_on>2026-05-19 03:15:43</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message>
